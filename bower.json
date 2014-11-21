@@ -1,6 +1,6 @@
 {
-  "name": "angular-tree-control",
-  "version": "0.2.7",
+  "name": "ngtree",
+  "version": "0.0.1",
   "main": [
     "./angular-tree-control.js",
     "./css/tree-control.css"
@@ -11,10 +11,13 @@
     "test",
     "karma.conf.js"
   ],
+  /*
   "dependencies": {
     "angular": "~1.2.6"
   },
+  */
   "devDependencies": {
+    "angular": "~1.2.6",
     "angular-mocks": "~1.2.7",
     "jquery": "~2.0.3",
     "bootstrap": "~3.1.1",
